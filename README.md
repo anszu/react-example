@@ -11,7 +11,7 @@ ToDo's:
 * Get rid of JSX transformer (deprecated) and use Babel instead
 * Move to https://github.com/facebookincubator/create-react-app for building
 * Notification.requestPermission should use promises
-* Fix wncoding issues (several browsers) on original MVC app (delete and dropdown symbol)
+* Fix encoding issues (several browsers) on original MVC app (delete and dropdown symbol)
 * Fix mobile version
 * Switch to SASS (check if BEM is useful)
 * Add testing
