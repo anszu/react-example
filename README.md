@@ -1,7 +1,7 @@
 # react-example
 ToDo List based on https://github.com/tastejs/todomvc/tree/gh-pages/examples/react :
 
-* Added Priorisation by drag and drop
+* Added Priorisation by drag and drop (uses https://github.com/RubaXa/Sortable)
 * Added Reminder Functionality
 
 Known issues:
